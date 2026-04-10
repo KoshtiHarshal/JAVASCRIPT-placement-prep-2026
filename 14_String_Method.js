@@ -15,10 +15,10 @@ console.log(Name.slice(2,6))
 console.log(Name.slice(2))
 
 // Rerplacing
-console.log(Name.replace("Har","Tri"))
+console.log(Name.replace("Har","God"))
 
 // Strings are IMMUTABLE. In order to access the character at an index we use the following Syntax.
-let fr = "Trisha"
+let fr = "Harco"
 console.log(fr[0])
 console.log(fr[1])
 console.log(fr[2])

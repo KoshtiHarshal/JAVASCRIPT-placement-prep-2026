@@ -5,10 +5,10 @@ let surname = "Koshti"      //This surname variable is storing Sting data in it.
 
 // Template Literals : It is also called String interpolation.
 
-let boy = "Harshal"
-let girl = "Trisha"
+let boy = "John"
+let girl = "Lisa"
 
-let sentence = `${boy} and ${girl}, Both are sweet couples :)<3`
+let sentence = `${boy} and ${girl}, Both are Best Friends :)<3`
 console.log(sentence)
 
 // Escape Sequence Characters
