@@ -21,9 +21,9 @@ for(j=100;j>0;j--){
 
 let obj = {
     Harshal : 78,
-    Trisha : 89,
+    Ashutosh : 89,
     Mohan : 68,
-    Bhakti : 65,
+    Chandan : 65,
     Shubham : 87,
 }
 
